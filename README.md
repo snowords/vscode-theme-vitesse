@@ -1,4 +1,4 @@
-<h1 align="center">Vitesse Theme for VS Code</h1>
+<h1 align="center">Snoword Theme for VS Code</h1>
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-vitesse.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
@@ -21,8 +21,8 @@ Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a
 // .vscode/setting.json
 {
   "window.autoDetectColorScheme": true,
-  "workbench.preferredLightColorTheme": "Vitesse Light",
-  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+  "workbench.preferredLightColorTheme": "Snoword Light",
+  "workbench.preferredDarkColorTheme": "Snoword Dark",
 }
 ```
 
@@ -34,7 +34,7 @@ Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a
 
 ## Thanks
 
-This project is based on [github-vscode-theme](https://github.com/primer/github-vscode-theme).
+This project is based on  [@Anthony Fu](https://github.com/antfu) / [vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse).
 
 ## License
 

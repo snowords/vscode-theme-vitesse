@@ -1,29 +1,28 @@
 {
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
+  "name": "theme-snoword",
+  "displayName": "Snoword Theme",
   "version": "0.4.4",
-  "description": "Vitesse theme for VS Code",
+  "description": "Snoword theme for VS Code",
   "categories": [
     "Themes"
   ],
   "keywords": [
     "theme",
-    "vitesse",
     "light",
     "dark"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/snowords/vscode-theme-vitesse"
   },
   "files": [
     "themes"
   ],
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/snowords/vscode-theme-vitesse/issues"
   },
-  "publisher": "antfu",
+  "publisher": "Snoword",
   "scripts": {
     "build": "esno src/index.ts",
     "dev": "nodemon --watch src -e ts --exec \"esno src/index.ts\"",
@@ -34,24 +33,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
+        "label": "Snoword Light",
         "uiTheme": "vs",
-        "path": "./themes/vitesse-light.json"
+        "path": "./themes/snoword-light.json"
       },
       {
-        "label": "Vitesse Dark",
+        "label": "Snoword Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark.json"
+        "path": "./themes/snoword-dark.json"
       },
       {
-        "label": "Vitesse Light Soft",
+        "label": "Snoword Light Soft",
         "uiTheme": "vs",
-        "path": "./themes/vitesse-light-soft.json"
+        "path": "./themes/snoword-light-soft.json"
       },
       {
-        "label": "Vitesse Dark Soft",
+        "label": "Snoword Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark-soft.json"
+        "path": "./themes/snoword-dark-soft.json"
       }
     ]
   },
