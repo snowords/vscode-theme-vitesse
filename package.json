@@ -1,7 +1,7 @@
 {
   "name": "theme-snoword",
   "displayName": "Snoword Theme",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Snoword theme for VS Code",
   "categories": [
     "Themes"
@@ -71,5 +71,8 @@
     "vscode": "^1.43.0"
   },
   "icon": "icon.png",
-  "preview": true
+  "preview": true,
+  "dependencies": {
+    "pnpm": "^6.32.6"
+  }
 }

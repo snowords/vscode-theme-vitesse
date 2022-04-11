@@ -9,9 +9,13 @@ specifiers:
   eslint: ^8.12.0
   esno: ^0.14.1
   nodemon: ^2.0.15
+  pnpm: ^6.32.6
   tsup: ^5.12.4
   typescript: ^4.6.3
   vsce: ^2.7.0
+
+dependencies:
+  pnpm: 6.32.6
 
 devDependencies:
   '@antfu/eslint-config': 0.19.4_eslint@8.12.0+typescript@4.6.3
@@ -2799,6 +2803,12 @@ packages:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
     dev: true
+
+  /pnpm/6.32.6:
+    resolution: {integrity: sha512-ucrdCw3F/qjjzoR9+UtLXH1jkDqsbinz+hzSz54WQOOPt/F+9uxm8irrO/mdGkmsy844kAX6vsfS85gZLTg+yA==}
+    engines: {node: '>=12.17'}
+    hasBin: true
+    dev: false
 
   /postcss-load-config/3.1.4:
     resolution: {integrity: sha512-6DiM4E7v4coTE4uzA8U//WhtPwyhiim3eyjEMFCnUpzbrkK9wJHgKDT2mR+HbtSrd/NubVaYTOpSpjUl8NQeRg==}

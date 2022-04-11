@@ -180,7 +180,7 @@ export default function getTheme({ style, name, soft = false }) {
       'terminal.ansiBrightGreen': vitesse('green'),
       'terminal.ansiBrightMagenta': vitesse('magenta'),
       'terminal.ansiBrightRed': vitesse('red'),
-      'terminal.ansiBrightWhite': pick({ light: '#dddddd', dark: '#ffffff' }),
+      'terminal.ansiBrightWhite': pick({ light: '#dddddd', dark: '#dddddd' }),
       'terminal.ansiBrightYellow': vitesse('yellow'),
       'terminal.ansiBlack': pick({ light: VitesseThemes.background[0], dark: VitesseThemes.foreground[1] }),
       'terminal.ansiBlue': vitesse('blue'),

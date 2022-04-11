@@ -134,7 +134,7 @@
     "terminal.ansiBrightGreen": "#4d9375",
     "terminal.ansiBrightMagenta": "#db889a",
     "terminal.ansiBrightRed": "#cb7676",
-    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightWhite": "#dddddd",
     "terminal.ansiBrightYellow": "#e6cc77",
     "terminal.ansiBlack": "#393a34",
     "terminal.ansiBlue": "#6394bf",
@@ -240,7 +240,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#c2c293"
+        "foreground": "#c6c682"
       }
     },
     {
@@ -255,13 +255,13 @@
         "tag.html"
       ],
       "settings": {
-        "foreground": "#54aa85"
+        "foreground": "#4fb98b"
       }
     },
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#c2c293"
+        "foreground": "#c6c682"
       }
     },
     {
@@ -270,7 +270,7 @@
         "storage.type.class.jsdoc"
       ],
       "settings": {
-        "foreground": "#54aa85"
+        "foreground": "#4fb98b"
       }
     },
     {
@@ -486,7 +486,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#54aa85"
+        "foreground": "#4fb98b"
       }
     },
     {
@@ -657,7 +657,7 @@
         "entity.other.attribute-name.html.vue"
       ],
       "settings": {
-        "foreground": "#c2c293"
+        "foreground": "#c6c682"
       }
     },
     {
@@ -764,11 +764,11 @@
     },
     {
       "token": "entity",
-      "foreground": "c2c293"
+      "foreground": "c6c682"
     },
     {
       "token": "entity.name",
-      "foreground": "c2c293"
+      "foreground": "c6c682"
     },
     {
       "token": "variable.parameter.function",
@@ -776,23 +776,23 @@
     },
     {
       "token": "entity.name.tag",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "tag.html",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "entity.name.function",
-      "foreground": "c2c293"
+      "foreground": "c6c682"
     },
     {
       "token": "keyword",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "storage.type.class.jsdoc",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "storage",
@@ -984,11 +984,11 @@
     },
     {
       "token": "constant.language.boolean",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "constant.language",
-      "foreground": "54aa85"
+      "foreground": "4fb98b"
     },
     {
       "token": "meta.module-reference",
@@ -1132,7 +1132,7 @@
     },
     {
       "token": "entity.other.attribute-name.html.vue",
-      "foreground": "c2c293"
+      "foreground": "c6c682"
     },
     {
       "token": "invalid.illegal.unrecognized-tag.html"
