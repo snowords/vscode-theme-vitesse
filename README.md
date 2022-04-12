@@ -7,7 +7,7 @@
 - Change some color schemes 
 ---
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=Snoword.theme-snoword" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/Snoword.theme-snoword.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=Snoword.theme-snoword" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/Snoword.vitesse-theme-snoword.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
 <p align="center">
