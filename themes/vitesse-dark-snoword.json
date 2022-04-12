@@ -108,8 +108,8 @@
     "editor.findMatchBackground": "#e6cc7722",
     "editor.findMatchHighlightBackground": "#e6cc7744",
     "editor.inactiveSelectionBackground": "#eeeeee10",
-    "editor.selectionBackground": "#eeeeee20",
-    "editor.selectionHighlightBackground": "#eeeeee25",
+    "editor.selectionBackground": "#eeeeee25",
+    "editor.selectionHighlightBackground": "#eeeeee30",
     "editor.wordHighlightBackground": "#1c6b4805",
     "editor.wordHighlightStrongBackground": "#1c6b4810",
     "editorBracketMatch.background": "#4d937520",
@@ -202,7 +202,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#666666"
       }
     },
     {
@@ -222,7 +222,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#c6c682"
+        "foreground": "#80a665"
       }
     },
     {
@@ -237,13 +237,13 @@
         "tag.html"
       ],
       "settings": {
-        "foreground": "#4fb98b"
+        "foreground": "#4d9375"
       }
     },
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#c6c682"
+        "foreground": "#80a665"
       }
     },
     {
@@ -252,7 +252,7 @@
         "storage.type.class.jsdoc"
       ],
       "settings": {
-        "foreground": "#4fb98b"
+        "foreground": "#4d9375"
       }
     },
     {
@@ -327,7 +327,7 @@
         "invalid.deprecated.entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#4E94CE"
+        "foreground": "#bf9763"
       }
     },
     {
@@ -338,7 +338,7 @@
         "entity.name.type.parameter"
       ],
       "settings": {
-        "foreground": "#4E94CE"
+        "foreground": "#bf9763"
       }
     },
     {
@@ -468,7 +468,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#4fb98b"
+        "foreground": "#4d9375"
       }
     },
     {
@@ -639,7 +639,7 @@
         "entity.other.attribute-name.html.vue"
       ],
       "settings": {
-        "foreground": "#c6c682"
+        "foreground": "#80a665"
       }
     },
     {
@@ -666,67 +666,67 @@
     },
     {
       "token": "delimiter.bracket",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "delimiter",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "invalid.illegal.character-not-allowed-here.html",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.assignment",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.assignment",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.rest",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.spread",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.type.annotation",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "meta.brace",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "meta.tag.block.any.html",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "meta.tag.inline.any.html",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "meta.tag.structure.input.void.html",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "meta.type.annotation",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "storage.type.function.arrow",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "keyword.operator.type",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "punctuation",
-      "foreground": "777777"
+      "foreground": "666666"
     },
     {
       "token": "constant",
@@ -746,11 +746,11 @@
     },
     {
       "token": "entity",
-      "foreground": "c6c682"
+      "foreground": "80a665"
     },
     {
       "token": "entity.name",
-      "foreground": "c6c682"
+      "foreground": "80a665"
     },
     {
       "token": "variable.parameter.function",
@@ -758,23 +758,23 @@
     },
     {
       "token": "entity.name.tag",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "tag.html",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "entity.name.function",
-      "foreground": "c6c682"
+      "foreground": "80a665"
     },
     {
       "token": "keyword",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "storage.type.class.jsdoc",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "storage",
@@ -854,27 +854,27 @@
     },
     {
       "token": "entity.other.attribute-name",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "invalid.deprecated.entity.other.attribute-name.html",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "variable",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "identifier",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "support.type.primitive.ts",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "entity.name.type.parameter",
-      "foreground": "4E94CE"
+      "foreground": "bf9763"
     },
     {
       "token": "namespace",
@@ -966,11 +966,11 @@
     },
     {
       "token": "constant.language.boolean",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "constant.language",
-      "foreground": "4fb98b"
+      "foreground": "4d9375"
     },
     {
       "token": "meta.module-reference",
@@ -1114,7 +1114,7 @@
     },
     {
       "token": "entity.other.attribute-name.html.vue",
-      "foreground": "c6c682"
+      "foreground": "80a665"
     },
     {
       "token": "invalid.illegal.unrecognized-tag.html"
