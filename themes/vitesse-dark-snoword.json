@@ -1,5 +1,5 @@
 {
-  "name": "Snoword Dark",
+  "name": "Vitesse Dark Snoword",
   "base": "vs-dark",
   "colors": {
     "focusBorder": "#00000000",
@@ -327,7 +327,7 @@
         "invalid.deprecated.entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#bf9763"
+        "foreground": "#4E94CE"
       }
     },
     {
@@ -338,7 +338,7 @@
         "entity.name.type.parameter"
       ],
       "settings": {
-        "foreground": "#bf9763"
+        "foreground": "#4E94CE"
       }
     },
     {
@@ -854,27 +854,27 @@
     },
     {
       "token": "entity.other.attribute-name",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "invalid.deprecated.entity.other.attribute-name.html",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "variable",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "identifier",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "support.type.primitive.ts",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "entity.name.type.parameter",
-      "foreground": "bf9763"
+      "foreground": "4E94CE"
     },
     {
       "token": "namespace",

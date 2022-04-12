@@ -4,33 +4,17 @@ import getTheme from './theme'
 fs.mkdir('./themes', { recursive: true })
   .then(() => Promise.all([
     fs.writeFile(
-      './themes/snoword-light.json',
+      './themes/vitesse-light-snoword.json',
       `${JSON.stringify(getTheme({
         style: 'light',
-        name: 'Snoword Light',
+        name: 'Vitesse Light Snoword',
       }), null, 2)}\n`,
     ),
     fs.writeFile(
-      './themes/snoword-dark.json',
+      './themes/vitesse-dark-snoword.json',
       `${JSON.stringify(getTheme({
         style: 'dark',
-        name: 'Snoword Dark',
-      }), null, 2)}\n`,
-    ),
-    fs.writeFile(
-      './themes/snoword-light-soft.json',
-      `${JSON.stringify(getTheme({
-        style: 'light',
-        name: 'Snoword Light Soft',
-        soft: true,
-      }), null, 2)}\n`,
-    ),
-    fs.writeFile(
-      './themes/snoword-dark-soft.json',
-      `${JSON.stringify(getTheme({
-        style: 'dark',
-        name: 'Snoword Dark Soft',
-        soft: true,
+        name: 'Vitesse Dark Snoword',
       }), null, 2)}\n`,
     ),
   ]))

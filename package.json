@@ -1,13 +1,14 @@
 {
-  "name": "theme-snoword",
-  "displayName": "Snoword Theme",
+  "name": "vitesse-theme-snoword",
+  "displayName": "Vitesse Theme Snoword",
   "version": "0.4.7",
-  "description": "Snoword theme for VS Code",
+  "description": "Fork Vitesse Theme",
   "categories": [
     "Themes"
   ],
   "keywords": [
     "theme",
+    "vitesse",
     "light",
     "dark"
   ],
@@ -33,24 +34,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snoword Light",
+        "label": "Vitesse Light Snoword",
         "uiTheme": "vs",
-        "path": "./themes/snoword-light.json"
+        "path": "./themes/vitesse-light-snoword.json"
       },
       {
-        "label": "Snoword Dark",
+        "label": "Vitesse Dark Snoword",
         "uiTheme": "vs-dark",
-        "path": "./themes/snoword-dark.json"
-      },
-      {
-        "label": "Snoword Light Soft",
-        "uiTheme": "vs",
-        "path": "./themes/snoword-light-soft.json"
-      },
-      {
-        "label": "Snoword Dark Soft",
-        "uiTheme": "vs-dark",
-        "path": "./themes/snoword-dark-soft.json"
+        "path": "./themes/vitesse-dark-snoword.json"
       }
     ]
   },
