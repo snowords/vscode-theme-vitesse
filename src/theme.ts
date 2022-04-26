@@ -85,7 +85,7 @@ export default function getTheme({ style, name, soft = false }) {
       'list.inactiveSelectionForeground': foreground,
       'list.activeSelectionForeground': foreground,
       'list.hoverBackground': activeBackground,
-      'list.inactiveSelectionBackground': background,
+      'list.inactiveSelectionBackground': activeBackground,
       'list.activeSelectionBackground': activeBackground,
       'list.inactiveFocusBackground': background,
       'list.focusBackground': activeBackground,
@@ -216,6 +216,9 @@ export default function getTheme({ style, name, soft = false }) {
 
       'editorGutter.commentRangeForeground': vitesse('ignored'),
       'editorGutter.foldingControlForeground': vitesse('secondaryForeground'),
+
+      'editorInlayHint.foreground': vitesse('punctuation'),
+      'editorInlayHint.background': '#00000000',
     },
     semanticHighlighting: true,
     semanticTokenColors: {
