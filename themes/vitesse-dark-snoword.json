@@ -53,7 +53,7 @@
     "list.inactiveSelectionForeground": "#dbd7caee",
     "list.activeSelectionForeground": "#dbd7caee",
     "list.hoverBackground": "#181818",
-    "list.inactiveSelectionBackground": "#121212",
+    "list.inactiveSelectionBackground": "#181818",
     "list.activeSelectionBackground": "#181818",
     "list.inactiveFocusBackground": "#121212",
     "list.focusBackground": "#181818",
@@ -139,7 +139,7 @@
     "editorBracketHighlight.foreground1": "#5eaab5",
     "editorBracketHighlight.foreground2": "#4d9375",
     "editorBracketHighlight.foreground3": "#d4976c",
-    "editorBracketHighlight.foreground4": "#db889a",
+    "editorBracketHighlight.foreground4": "#d9739f",
     "editorBracketHighlight.foreground5": "#e6cc77",
     "editorBracketHighlight.foreground6": "#6394bf",
     "debugToolBar.background": "#121212",
@@ -161,7 +161,9 @@
     "editorInfo.foreground": "#6394bf",
     "editorHint.foreground": "#4d9375",
     "editorGutter.commentRangeForeground": "#dedcd530",
-    "editorGutter.foldingControlForeground": "#dedcd590"
+    "editorGutter.foldingControlForeground": "#dedcd590",
+    "editorInlayHint.foreground": "#666666",
+    "editorInlayHint.background": "#00000000"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
