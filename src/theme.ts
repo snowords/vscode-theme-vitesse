@@ -19,9 +19,9 @@ export default function getTheme({ style, name, soft = false }) {
   const background = soft ? vitesse('lowBackground') : vitesse('background')
   const activeBackground = soft ? vitesse('lowActiveBackground') : vitesse('activeBackground')
 
-  const selectionBackgroundInActive = pick({ light: '#22222208', dark: '#eeeeee08' })
-  const selectionBackgroundActive = pick({ light: '#22222215', dark: '#eeeeee15' })
-  const selectionBackground = pick({ light: '#22222215', dark: '#eeeeee15' })
+  const selectionBackgroundInActive = pick({ light: '#22222208', dark: '#eeeeee15' })
+  const selectionBackgroundActive = pick({ light: '#22222215', dark: '#eeeeee25' })
+  const selectionBackground = pick({ light: '#22222215', dark: '#eeeeee25' })
 
   const theme = {
     name,
